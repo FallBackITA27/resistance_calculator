@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository has been archived and migrated to [my Forgejo instance](https://tinkery.primmr.dev/PrimmR/resistance_calculator).
+
 # Arduboy Resistance Calculator
 This is a small application for the Arduboy that allows you to calculate the resistance of a resistor from its colour values and vice versa.
 
